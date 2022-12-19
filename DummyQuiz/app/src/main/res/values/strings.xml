@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DummyQuiz</string>
+    <string name="Quiz_rules">
+        <br>1)Complete the test in 5 minutes (250 secs).\n</br>\n
+        <br>2)You will have 9 questions to complete.\n</br>\n
+        <br>3)Press start button to start the test.\n</br>\n
+        <br>4)Test will be auto-submitted upon timer exhaust.\n</br>\n
+    </string>
+</resources>
